@@ -25,7 +25,7 @@ Each week we will be providing you with a small project idea or let’s say a re
 On your local machine, prepare the solution in a new folder. Here enable and use git to keep track of your files. Once your solution is prepared do the following:
 
 - Go to your github account and make a new repository.
-- Push your code to github. You will be asked to initialize it with readme.md file. Click on it, you will be reuired to write your full documentation here. You can also make a readme file after the code has been pushed to github. A readme.md file is a **MUST**. Your readme.md file must contain the following:
+- Push your code to github. You will be asked to initialize it with readme.md file. Click on it, you will be required to write your full documentation here. You can also make a readme file after the code has been pushed to github. A readme.md file is a **MUST**. Your readme.md file must contain the following:
     - How to run? This is very important as we all use different tools so provide a brief description as to how you ran your code in your pc while preparing the solution.
     - Softwares / Tools used while making the project.
     - What your project does? Describe each and every feature (more or less) of your project.
