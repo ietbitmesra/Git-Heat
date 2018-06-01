@@ -1,6 +1,6 @@
 # Welcome to Git Heat !
 
-Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. So what are you waiting for? Jump right in !!!
+Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. Make sure you read and follow the [coding instructions](./CODING_INSTRUCTIONS.md). If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). So what are you waiting for? Jump right in !!!
 
 - [Welcome to Git Heat !](#welcome-to-git-heat-)
     - [First Steps](#first-steps)
