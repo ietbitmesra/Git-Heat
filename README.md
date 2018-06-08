@@ -1,4 +1,6 @@
-# Welcome to Git Heat !
+﻿# Welcome to Git Heat !
+
+[![slack_badge](https://img.shields.io/badge/Connect_on-Slack-3AAE84.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietslack) [![slack_badge](https://img.shields.io/badge/Follow_On-Facebook-3C5898.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietfb) [![slack_badge](https://img.shields.io/badge/Visit_On-Website-CF000F.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietweb)
 
 Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. Make sure you read and follow the [coding instructions](./CODING_INSTRUCTIONS.md). If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). So what are you waiting for? Jump right in !!!
 
@@ -30,12 +32,12 @@ On your local machine, prepare the solution in a new folder. Here enable and use
     - Softwares / Tools used while making the project.
     - What your project does? Describe each and every feature (more or less) of your project.
 - Make sure you make your repository public.
-- In the form given below, enter your github repository link and other necessary details. We will review your code and create issues accordingly.
-- Make sure you regularly keep an eye on issues. After the specified time period, you will be evaluated on the basis of issues closed, project execution, code quality, ideas and many more parameters.
+- Once you feel you have fulfilled the basic requirements, fill the [submission form](https://kutt.it/githeatsubmit). We will review your code and create issues accordingly.
+- Make sure you regularly keep an eye on issues and code reviews on commits. After the specified time period, you will be evaluated on the basis of issues closed, project execution, code quality, ideas and many more parameters.
 
 ## General Tips
 
-- Keep commiting your code frequently, this is considered a good practice that makes things a lot easier.
+- Keep committing your code frequently, this is considered a good practice that makes things a lot easier.
 - A wise guy has said *Conventions Maketh Coder*. So, ensure that you follow coding standards. This makes your code readable and understandable for others **as well as you** at a later point. You can use vigilance as well as editor/ide extensions to assist in this. Here are some coding standards for some popular languages:
     - [Python](https://www.python.org/dev/peps/pep-0008/)
     - [JavaScript](https://www.w3schools.com/js/js_conventions.asp)
