@@ -14,4 +14,4 @@ Once you are done with your program, make it better - Add features such as distr
 
 ## Resources
 
-You'll need the operating system module for your language: See [os for python](https://docs.python.org/3/library/os.html) or [nio for java](https://docs.oracle.com/javase/tutorial/essential/io/fileio.html). You might also need a plotting library if you want to display the analysis graphically. See [plotly for python](https://plot.ly/python/) or [JFreeChart for java](http://www.jfree.org/jfreechart/)
+You'll need the operating system module for your language: See [os for python](https://docs.python.org/3/library/os.html) or [nio for java](https://docs.oracle.com/javase/tutorial/essential/io/fileio.html). You might also need a plotting library if you want to display the analysis graphically. See [Bokeh](https://bokeh.pydata.org/en/latest/) or [Matplotlib](https://matplotlib.org/) or [Plotly](https://plot.ly/python/) for python or [JFreeChart for java](http://www.jfree.org/jfreechart/)
