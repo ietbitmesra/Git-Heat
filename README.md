@@ -1,6 +1,6 @@
 ﻿# Welcome to Git Heat !
 
-[![slack_badge](https://img.shields.io/badge/Connect_on-Slack-3AAE84.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietslack) [![slack_badge](https://img.shields.io/badge/Follow_On-Facebook-3C5898.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietfb) [![slack_badge](https://img.shields.io/badge/Visit_On-Website-CF000F.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietweb)
+ [![slack_badge](https://img.shields.io/badge/Connect_on-Slack-3AAE84.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietslack) [![fb_badge](https://img.shields.io/badge/Follow_On-Facebook-3C5898.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietfb) [![website_badge](https://img.shields.io/badge/Visit_On-Website-CF000F.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietweb)
 
 Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. Make sure you read and follow the [coding instructions](./CODING_INSTRUCTIONS.md). If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). So what are you waiting for? Jump right in !!!
 
