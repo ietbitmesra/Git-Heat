@@ -1,14 +1,19 @@
-﻿# Welcome to Git Heat !
+# ![Git Heat Spread](assets/githeat18.jpg)
 
- [![slack_badge](https://img.shields.io/badge/Connect_on-Slack-3AAE84.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietslack) [![fb_badge](https://img.shields.io/badge/Follow_On-Facebook-3C5898.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietfb) [![website_badge](https://img.shields.io/badge/Visit_On-Website-CF000F.svg?longCache=true&style=for-the-badge)](https://kutt.it/ietweb)
+<p align="center">
+<a href='https://kutt.it/ietslack'><img src='https://img.shields.io/badge/Connect_on-Slack-3AAE84.svg?longCache=true&amp;style=for-the-badge' alt='slack_badge' referrerPolicy='no-referrer' /></a>
+<a href='https://kutt.it/ietfb'><img src='https://img.shields.io/badge/Follow_On-Facebook-3C5898.svg?longCache=true&amp;style=for-the-badge' alt='fb_badge' referrerPolicy='no-referrer' /></a>
+<a href='https://kutt.it/ietweb'><img src='https://img.shields.io/badge/Visit_On-Website-CF000F.svg?longCache=true&amp;style=for-the-badge' alt='website_badge' referrerPolicy='no-referrer' /></a>
+</p>
 
-Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. Make sure you read and follow the [coding instructions](./CODING_INSTRUCTIONS.md). If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). So what are you waiting for? Jump right in !!!
 
-- [Welcome to Git Heat !](#welcome-to-git-heat-)
-    - [First Steps](#first-steps)
-    - [Attempting Problems](#attempting-problems)
-    - [General Tips](#general-tips)
-    - [Results & Prizes](#results--prizes)
+
+Welcome to Git Heat! Each week we will be providing you with a small project idea or let’s say a real life problem statement along with an extensive list of resources that'll help you gain the skills required for the project. You will have one week to learn the relevant technologies and solve the problem. At any time during this period, you can submit your code for review by filling the [submission form](https://kutt.it/githeatsubmit) and we will get back to you. Make sure you read and follow the [coding instructions](./CODING_INSTRUCTIONS.md). If you have any doubts, you can reach out to us anytime on [slack](https://kutt.it/ietslack). So what are you waiting for? Jump right in !!!
+
+- [First Steps](#first-steps)
+- [Attempting Problems](#attempting-problems)
+- [General Tips](#general-tips)
+- [Results & Prizes](#results--prizes)
 
 ## First Steps
 
@@ -47,5 +52,4 @@ On your local machine, prepare the solution in a new folder. Here enable and use
 ## Results & Prizes
 
 - Every week, we will select the best attempt at solving the problem. Their code will be added here at the end of the event.
-- At the end of the event, we will also link other good attempts at solving the problem in the problem's readme.
-- If you get featured on more than one problem, you stand to win prizes and more !!
+- If you get featured on a problem, you stand to win prizes and more !! ([Submission Instructions](./SUBMISSION_INSTRUCTIONS.md))
