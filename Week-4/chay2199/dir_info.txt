@@ -1,0 +1,4 @@
+d- .idea
+f- server.py
+f- dir_info.txt
+f- client.py
