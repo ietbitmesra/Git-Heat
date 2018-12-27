@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+{% load static %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>
+        RIDE
+    </title>
+    <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" type="text/css" href="{% static "css/base_style.css" %}"/>
+</head>
+<body>
+<header>
+    <div id="bg1" style="height: 120px; width:100%">
+        <p>
+        <h1  class="header " style ="margin-left: 20%; margin-top: 2%; color: #003B47">RIDE - Train details using train number</h1>
+        </p>
+    </div>
+</header>
+<div id="content">
+    {% block content %}
+
+    {% endblock content %}
+</div>
+<style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #ccc;
+        color: black;
+        text-align: center;
+    }
+</style>
+
+<div class="footer">
+    <p>Designed &amp Developed by Mohit Kumar.</p>
+</div>
+</body>
+
+</html>
